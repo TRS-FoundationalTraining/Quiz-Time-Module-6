@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">Quiz Time Module 6</langstring>
+          <langstring xml:lang="x-none">Quiz Time</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="Quiz_Time_Module_6_ORG">
-    <organization identifier="Quiz_Time_Module_6_ORG">
-      <title>Quiz Time Module 6</title>
+  <organizations default="Quiz_Time_ORG">
+    <organization identifier="Quiz_Time_ORG">
+      <title>Quiz Time</title>
       <item identifier="Quiz_Time_SCO" isvisible="true" identifierref="__5YwcJBG7Jv9_RES">
-        <title>Quiz Time Module 6</title>
+        <title>Quiz Time</title>
       </item>
     </organization>
   </organizations>
